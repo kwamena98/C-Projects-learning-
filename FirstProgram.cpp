@@ -1,5 +1,6 @@
+//This breaks in the Iostream library
 #include <iostream>
-#include <vector>
+// This statement imports the entire std namespace into the current namespace of the program
 using namespace std;
 
 
