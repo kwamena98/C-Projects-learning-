@@ -17,6 +17,11 @@ float AddFloats(float first_param,float second_param){
     return results;
 }
 
+string rephrase(string name){
+    string results= "My Dog is called " +name;
+    return results;
+}
+
 int main(){
     int sum = addNumbers(20,10);
     cout<<"Sum of the integers "<<sum<<endl;
@@ -24,4 +29,8 @@ int main(){
     float sum1= AddFloats(2.4,2.2);
     cout<<"Sum of the floats "<<sum1<<endl;
 
+    cout<<rephrase("Bibi")<<endl;
+
+
 }
+
