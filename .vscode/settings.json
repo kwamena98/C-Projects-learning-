@@ -7,6 +7,11 @@
         "*.css.liquid": "liquid-css",
         "*.scss.liquid": "liquid-scss",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "functional": "cpp",
+        "map": "cpp",
+        "regex": "cpp",
+        "string": "cpp",
+        "format": "cpp"
     }
 }
